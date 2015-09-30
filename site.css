@@ -1,0 +1,22 @@
+body {
+    min-height: 500px;
+}
+#wrapper {
+    width: 500px;
+    margin: 0 auto;
+    position: relative;
+}
+header {
+    padding: 1em;
+    text-shadow: 3px 3px 5px #000;
+}
+#pumpkinSpiceify {
+    position: fixed;
+    padding: 0.5em;
+    background-color: #cc5227;
+    color: #55270d;
+    border: 1px solid #55270d;
+    top: 100px;
+    left: 100px;
+    cursor: pointer;
+}
